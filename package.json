@@ -75,7 +75,7 @@
     "kurento-jsonrpc": "github:MoonGihwan/kurento-jsonrpc-js#Gihwan",
     "minimist": "^1.2.0",
     "promise": "8.0.2",
-    "promisecallback": "3.0.3",
+    "promisecallback": "0.0.4",
     "reconnect-ws": "github:MoonGihwan/reconnect-ws#master"
   },
   "devDependencies": {
